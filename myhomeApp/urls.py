@@ -4,8 +4,7 @@ from . import views
 
 urlpatterns = [
 
-    path('getTemparatureData', views.getTemparatureData, name='getTemparatureData'),
-
-
+    path('sendTempHumData', views.sendTempHumData, name='sendTempHumData'),
+    path('getTemparatureDataApp', views.getTemparatureDataApp,name='getTemparatureDataApp'),
 
 ]
