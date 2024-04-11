@@ -1,4 +1,4 @@
-# Garments App Backend
+# myHome App Backend
 Django Backend for Flutter Mobile App.
 
 ## Description
